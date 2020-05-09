@@ -1,0 +1,1 @@
+java -jar swagger-codegen-cli-2.3.1.jar generate -i api.yaml --api-package it.cnr.iasi.saks.groucho.api --model-package it.cnr.iasi.saks.groucho.model --group-id it.cnr.iasi.saks.groucho --artifact-id groucho-lsh-rest --artifact-version 1.0-SNAPSHOT -l spring -o .

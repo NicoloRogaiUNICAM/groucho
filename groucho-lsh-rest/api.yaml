@@ -10,7 +10,6 @@ info:
     name: "GNU General Public License (GPL ver.3)"
     url: "http://www.gnu.org/licenses/gpl.txt"
 host: "localhost"
-port: "8080"
 basePath: "/groucho-state-observer"
 tags:
 - name: "isStateUnknown"
